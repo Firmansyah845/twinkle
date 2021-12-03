@@ -21,6 +21,4 @@ func TestFindLyric(t *testing.T) {
 		assert.Equal(t, "This is Like a diamond in the sky and Up above the world so high and How I wonder what you are and Twinkle, twinkle, little star", resultLyric)
 	}
 
-
-
 }
